@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace mjfklib\WebApp\Session;
 
-use mjfklib\Container\ArrayValue;
+use mjfklib\Utils\ArrayValue;
 use mjfklib\Container\Env;
 
 class SessionConfig
